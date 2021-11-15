@@ -9,3 +9,6 @@ HTML, CSS, Javascript
 ## Website 
 https://cruz801.github.io/Password-Generator/
 ![Screenshot (28)](https://user-images.githubusercontent.com/92316250/141706288-2ff39ffd-9bee-4712-95b0-0c85635e713a.png)
+
+## Contribution
+Steven Cruz, worked as a team during class hours with TA Eric Sayer and classmates Luc Nguyen, Scot Nicholsen, and John Davis.
